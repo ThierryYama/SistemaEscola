@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './SelectionModal.css'; // Certifique-se de ter um arquivo CSS para estilos
+import './SelectionModal.css'; 
 
 const SelectionModal = ({ 
   title, 
